@@ -20,5 +20,6 @@ public class Main {
         System.out.println(minhaFila.first());
         //imprimindo novamente a fila
         System.out.println(minhaFila);
+        System.out.println(minhaFila);
     }
 }

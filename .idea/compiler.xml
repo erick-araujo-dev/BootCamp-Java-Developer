@@ -10,9 +10,5 @@
         <module name="fila" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="fila" target="1.8" />
-      <module name="projeto-nos" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

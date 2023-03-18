@@ -7,9 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="listaEncadeada" />
-        <module name="listaDuplaEncadeada" />
-        <module name="projeto-nos" />
-        <module name="fila" />
       </profile>
     </annotationProcessing>
   </component>

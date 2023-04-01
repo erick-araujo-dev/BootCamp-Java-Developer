@@ -21,7 +21,7 @@ public class Fila<T> {
                 }
             }
             return (T) primeiroNo.getObject();
-        }
+        } 
         return null;
     }
 
